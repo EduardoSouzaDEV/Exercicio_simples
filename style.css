@@ -29,9 +29,9 @@ img {
     height: 200px;
 }
 
-section div span{
-    display: flex;
-    justify-content: center;
+section div #res{
+    text-align: center;
+    
 }
 
 footer{
